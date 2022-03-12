@@ -1,0 +1,2 @@
+// functions in vars
+
