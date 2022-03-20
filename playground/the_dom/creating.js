@@ -22,9 +22,9 @@ newUnorderedList.classList.add('testList');
 const textItems = ['one', 'two', 'three', 'four', 'five', 'six'];
 
 for (let i = 0; i < textItems.length; i++) {
-    const nexItem = document.createElement('li');
-    nexItem.textContent = textItems[i];
-    newUnorderedList.append(nexItem);
+  const nexItem = document.createElement('li');
+  nexItem.textContent = textItems[i];
+  newUnorderedList.append(nexItem);
 }
 
 newDiv.append(newUnorderedList);
