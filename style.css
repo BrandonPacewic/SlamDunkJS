@@ -1,0 +1,12 @@
+body {
+  background-color: #16191B;
+  color: white;
+}
+
+button {
+  background-color: #75BA74;
+  border-color: limegreen;
+  font-size: 20px;
+  height: 5em;
+  width: 10em;
+}
